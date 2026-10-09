@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+output/
+voices/
+assets/backgrounds/
+assets/music/
+assets/advert/
+*.mp4
+*.wav
+*.mp3
+*.onnx
+.env
+.env.*
+*.log
+error-log.txt
